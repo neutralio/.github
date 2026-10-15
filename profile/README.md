@@ -6,7 +6,7 @@
   </picture>
 
   <p>
-    <a href="https://t.me/neutral_io">Telegram</a> · <a href="https://github.com/orgs/neutralio/repositories">Repositories</a>
+    <a href="https://t.me/neutral_io">Telegram [RU]</a> · <a href="https://github.com/orgs/neutralio/repositories">Repositories</a>
   </p>
 </div>
 

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="neutral — AI and software">
+<title>neutral</title>
+<defs>
+  <clipPath id="rounded"><rect width="1200" height="300" rx="28"/></clipPath>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#608B77" stop-opacity=".76"/><stop offset=".38" stop-color="#608B77" stop-opacity=".18"/><stop offset="1" stop-color="#608B77" stop-opacity="0"/></linearGradient>
+</defs>
+<g clip-path="url(#rounded)">
+  <rect width="1200" height="300" fill="#F6F4EE"/>
+  <path d="M0 1 H1200" stroke="#D9DEDB" stroke-opacity=".55" stroke-width="2"/>
+  <rect width="640" height="3" fill="url(#accent)"/>
+  <path d="M0 113 L0 70 C0 43.5 20.5 23.75 49 23.75 C77.5 23.75 97.5 43.5 97.5 70 L97.5 113 L71 113 L71 70 C71 57.4 61.4 49 49 49 C36.6 49 26.5 57.4 26.5 70 L26.5 113 Z" transform="translate(830 36) scale(2.3)" fill="#608B77" opacity=".075" fill-rule="evenodd"/>
+  <rect x="68" y="46" width="26" height="3" rx="1.5" fill="#608B77"/>
+  <text x="108" y="53" font-family="Arial,Helvetica,sans-serif" fill="#616A65" font-size="15" font-weight="600" letter-spacing="3.5">CODE / AI</text>
+  <g transform="translate(65 98) scale(1.12)"><path d="M0 113 L0 70 C0 43.5 20.5 23.75 49 23.75 C77.5 23.75 97.5 43.5 97.5 70 L97.5 113 L71 113 L71 70 C71 57.4 61.4 49 49 49 C36.6 49 26.5 57.4 26.5 70 L26.5 113 Z" fill="#101112" fill-rule="evenodd"/><path d="M201 71 C201 43.6 180.3 24 152.5 24 C124.8 24 103 44.2 103 70 C103 97.8 124.7 117 153.5 117 C173.2 117 190.1 105.3 197.5 86.6 L171.3 86.6 C167 91.5 160.9 93.8 153.3 93.8 C143.6 93.8 135.4 87.4 132 78.2 L200 78.2 C200.7 75.7 201 73.3 201 71 Z M131.8 61 C135.7 51.5 143.6 46.7 153.5 46.7 C163.5 46.7 171 51.6 174.1 61 Z" fill="#101112" fill-rule="evenodd"/><path d="M207 27 L233 27 L233 71.5 C233 83.7 241 91.5 253.3 91.5 C265.6 91.5 273.6 83.7 273.6 71.5 L273.6 27 L299.5 27 L299.5 72.5 C299.5 98.3 280.1 116 253.3 116 C226.5 116 207 98.3 207 72.5 Z" fill="#101112" fill-rule="evenodd"/><path d="M305.2 3.2 L330.6 3.2 L330.6 26.8 L366 26.8 L366 49.8 L330.6 49.8 L330.6 71.3 C330.6 84.3 338 92.5 352.1 92.5 L366 92.5 L366 115 L350.6 115 C321.4 115 305.2 98.6 305.2 72.7 Z" fill="#101112" fill-rule="evenodd"/><path d="M373 114.6 L373 69.7 C373 44.6 391.3 26.8 416.7 26.8 L425.3 26.8 L425.3 50 L417.1 50 C405.6 50 398.8 57.6 398.8 70.1 L398.8 114.6 Z" fill="#101112" fill-rule="evenodd"/><path d="M521.7 70.6 L521.7 115.6 L495.1 115.6 L495.1 106 C488.6 113.1 479.6 116.7 470.7 116.7 C443.7 116.7 423.3 96.5 423.3 71 C423.3 45.4 444 25.3 472.6 25.3 C500.9 25.3 521.7 45.4 521.7 70.6 Z M493.9 71.8 C493.9 59.4 484 49.8 471.6 49.8 C459.2 49.8 449.2 59.4 449.2 71.8 C449.2 84.1 459.2 93.5 471.6 93.5 C484 93.5 493.9 84.1 493.9 71.8 Z" fill="#101112" fill-rule="evenodd"/><path d="M530 0 L558 0 L558 115.8 L530 115.8 Z" fill="#101112" fill-rule="evenodd"/></g>
+  <text x="69" y="261" font-family="Arial,Helvetica,sans-serif" fill="#616A65" font-size="20" letter-spacing="0.6">AI · SOFTWARE · OPEN SOURCE</text>
+</g>
+</svg>

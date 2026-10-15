@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="158" viewBox="0 0 1200 158" role="img" aria-label="Open source, products, experiments"><title>neutral projects</title>
+<rect x="0" y="0" width="1200" height="158" rx="23" fill="#FAF9F6"/>
+<rect x="16" y="17" width="376" height="124" rx="16" fill="none" stroke="#D6DDD6" stroke-width="1.5"/>
+<text x="39" y="54" font-family="Arial,Helvetica,sans-serif" fill="#567B69" font-size="15" font-weight="600" letter-spacing="1">01</text>
+<text x="77" y="54" font-family="Arial,Helvetica,sans-serif" fill="#101112" font-size="18" font-weight="700" letter-spacing="1.15">OPEN SOURCE</text>
+<text x="39" y="103" font-family="Arial,Helvetica,sans-serif" fill="#5C665F" font-size="19">Tools &amp; source code</text>
+<rect x="412" y="17" width="376" height="124" rx="16" fill="none" stroke="#D6DDD6" stroke-width="1.5"/>
+<text x="435" y="54" font-family="Arial,Helvetica,sans-serif" fill="#567B69" font-size="15" font-weight="600" letter-spacing="1">02</text>
+<text x="473" y="54" font-family="Arial,Helvetica,sans-serif" fill="#101112" font-size="18" font-weight="700" letter-spacing="1.15">PRODUCTS</text>
+<text x="435" y="103" font-family="Arial,Helvetica,sans-serif" fill="#5C665F" font-size="19">Apps, sites &amp; bots</text>
+<rect x="808" y="17" width="376" height="124" rx="16" fill="none" stroke="#D6DDD6" stroke-width="1.5"/>
+<text x="831" y="54" font-family="Arial,Helvetica,sans-serif" fill="#567B69" font-size="15" font-weight="600" letter-spacing="1">03</text>
+<text x="869" y="54" font-family="Arial,Helvetica,sans-serif" fill="#101112" font-size="18" font-weight="700" letter-spacing="1.15">EXPERIMENTS</text>
+<text x="831" y="103" font-family="Arial,Helvetica,sans-serif" fill="#5C665F" font-size="19">AI &amp; prototypes</text>
+</svg>
